@@ -1,12 +1,12 @@
 <?php
 /**
- * Configuration provider for API Logger
+ * Configuration provider for GeneralLogger Logger
  *
  * PHP version 5.5
  *
  * Declare Service Namespace
  *
- * @uses AppLogger
+ * @uses GeneralLogger
  */
 namespace GeneralLogger;
 
@@ -18,8 +18,8 @@ use Zend\Mvc\ModuleRouteListener;
  *
  * @category Class
  * @package  AppLogger
- * @author   Kanwar Pal <kanwar@osscube.com>
- * @license  http://www.beachbody.com, Beachbody, LLC.
+ * @author   Ajay 
+ * @license  Free.
  * @link     {}
  */
 

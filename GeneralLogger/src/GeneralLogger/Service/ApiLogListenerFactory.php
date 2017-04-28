@@ -5,9 +5,7 @@
  * PHP version 5.5
  *
  * @category Service
- * @package  AppLogger\Service
- * @author   Kanwar Pal <kanwar@osscube.com>
- * @license  http://www.beachbody.com, Beachbody, LLC.
+ * @package  GeneralLogger\Service
  * @link     {}
  */
 
@@ -21,8 +19,6 @@ use Zend\ServiceManager\ServiceLocatorInterface;
  *
  * @category Class
  * @package  AppLogger\Service
- * @author   Kanwar Pal <kanwar@osscube.com>
- * @license  http://www.beachbody.com, Beachbody, LLC.
  * @link     {}
  */
 class ApiLogListenerFactory implements FactoryInterface

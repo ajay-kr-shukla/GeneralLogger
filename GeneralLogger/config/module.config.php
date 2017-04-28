@@ -7,8 +7,6 @@
  *
  * @category Configuration
  * @package  AppLogger
- * @author   Beachbody Digital
- * @license  http://www.beachbody.com, Beachbody, LLC.
  * @link     {}
  */
 return array(

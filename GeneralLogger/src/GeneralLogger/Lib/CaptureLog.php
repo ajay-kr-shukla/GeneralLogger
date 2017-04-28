@@ -7,7 +7,7 @@
  *
  * Declare Lib Namespace
  *
- * @uses AppLogger\Lib
+ * @uses GeneralLogger\Lib
  */
 
 namespace GeneralLogger\Lib;
@@ -23,13 +23,9 @@ use Zend\ServiceManager\ServiceLocatorInterface;
  *
  * @category    CaptureLog
  *
- * @package     AppLogger
- *
- * @author      Beachbody Digital
+ * @package     GeneralLogger
  *
  * @version     Version 1.0
- *
- * @copyright   (c) 2016, Beachbody Digital
  *
  * @uses        Zend\Log\Logger;
  *

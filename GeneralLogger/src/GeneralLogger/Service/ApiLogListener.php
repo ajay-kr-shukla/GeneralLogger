@@ -7,7 +7,7 @@
  *
  * Declare Service Namespace
  *
- * @uses AppLogger\Service
+ * @uses GeneralLogger\Service
  */
 
 namespace GeneralLogger\Service;
@@ -22,13 +22,9 @@ use Zend\Mvc\MvcEvent;
  *
  * @category    ApiLogListener
  *
- * @package     AppLogger
- *
- * @author      Beachbody Digital
+ * @package     GeneralLogger
  *
  * @version     Version 1.0
- *
- * @copyright   (c) 2016, Beachbody Digital
  *
  * @uses        ZF\ApiProblem\ApiProblem
  *
